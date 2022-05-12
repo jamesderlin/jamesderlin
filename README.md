@@ -8,4 +8,6 @@ I was a software engineer at VMware for many years, where I was a Windows UI dev
 
 Before that, I worked for Sony Electronics writing Palm OS software for its CLI&Eacute; line of PDAs.
 
-## [My GitHub repositories](https://github.com/jamesderlin?tab=repositories&q=&type=source&language=&sort=name).
+## [My GitHub Repositories](https://github.com/jamesderlin?tab=repositories&q=&type=source&language=&sort=name)
+
+## [Contact Me](https://www.taenarum.com/contact.html)
